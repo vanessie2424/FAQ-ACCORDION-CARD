@@ -136,7 +136,7 @@ h4:hover{
         padding-top: 60px;
     }
     .container{
-        max-width: 370px;
+        max-width: 350px;
         margin-top: 30px;
         display: flex;
         justify-content: center;
@@ -158,16 +158,16 @@ h4:hover{
     #mobile_woman{
         position: absolute;
         top: 12px;
-        right: 115px;
+        right: 87px;
         display: block;
         margin: 0 auto;
-        width: 55%;
+        width: 70%;
 
        
         
     }
     h4{
-        font-size: 15px;
+        font-size: 12px;
     }
 
     #desktop_box{
